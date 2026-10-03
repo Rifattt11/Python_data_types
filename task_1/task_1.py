@@ -7,7 +7,8 @@ students = [
 students_average_marks = {}
 
 for student in students:
-    students_average_marks[student['name']] = sum(student['grades']) / len(student['grades'])
+    average_mark = sum(student['grades']) / len(student['grades'])
+    students_average_marks[student['name']] = average_mark
 
 best_student = max(students_average_marks, key=students_average_marks.get)
 
