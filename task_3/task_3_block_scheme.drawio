@@ -1,0 +1,310 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="3aEpeZMRw_JSS6LexFjz">
+    <mxGraphModel dx="2047" dy="3400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AolBaxtENKBG_FzVwrSG-298" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontSize=12;" value="Начало" vertex="1">
+          <mxGeometry height="60" width="180" x="1140" y="-1130" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-299" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="-1070" as="sourcePoint" />
+            <mxPoint x="1230" y="-1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-301" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="-910" as="sourcePoint" />
+            <mxPoint x="1230" y="-860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-302" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="common = []&lt;div&gt;only_in_1 = []&lt;/div&gt;&lt;div&gt;only_in_2 = []&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="1140" y="-860" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-303" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="-740" as="sourcePoint" />
+            <mxPoint x="1230" y="-690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-304" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fontSize=12;" value="Для d&lt;div&gt;в list1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="1140" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-305" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="-570" as="sourcePoint" />
+            <mxPoint x="1230" y="-520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-306" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=12;" value="d в list2?" vertex="1">
+          <mxGeometry height="120" width="180" x="1140" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-307" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="-460" as="sourcePoint" />
+            <mxPoint x="1140" y="-460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-308" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1320" y="-460" as="sourcePoint" />
+            <mxPoint x="1371" y="-460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-309" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;" value="Нет" vertex="1">
+          <mxGeometry height="20" width="40" x="1095" y="-485" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-310" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;" value="Да" vertex="1">
+          <mxGeometry height="20" width="40" x="1325" y="-485" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-311" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1370" y="-460" as="sourcePoint" />
+            <mxPoint x="1370" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-312" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="common.append(d)" vertex="1">
+          <mxGeometry height="120" width="180" x="1280" y="-410" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-313" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1370" y="-290" as="sourcePoint" />
+            <mxPoint x="1370" y="-249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-314" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="-250" as="sourcePoint" />
+            <mxPoint x="1370" y="-250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-315" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="-249" as="sourcePoint" />
+            <mxPoint x="1090" y="-631" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-316" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="-630" as="sourcePoint" />
+            <mxPoint x="1140" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-317" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1320" y="-630" as="sourcePoint" />
+            <mxPoint x="1511" y="-630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-318" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1510" y="-630" as="sourcePoint" />
+            <mxPoint x="1510" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-319" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1229" y="-220" as="sourcePoint" />
+            <mxPoint x="1511" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-320" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="-220" as="sourcePoint" />
+            <mxPoint x="1230" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-321" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fontSize=12;" value="Для d&lt;div&gt;в list1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="1140" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-322" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="-50" as="sourcePoint" />
+            <mxPoint x="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-323" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=12;" value="d не в list2?" vertex="1">
+          <mxGeometry height="120" width="180" x="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-324" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="60" as="sourcePoint" />
+            <mxPoint x="1140" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-325" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1320" y="60" as="sourcePoint" />
+            <mxPoint x="1371" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-326" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;" value="Нет" vertex="1">
+          <mxGeometry height="20" width="40" x="1095" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-327" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;" value="Да" vertex="1">
+          <mxGeometry height="20" width="40" x="1325" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-328" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1370" y="60" as="sourcePoint" />
+            <mxPoint x="1370" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-329" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="only_in_1.append(d)" vertex="1">
+          <mxGeometry height="120" width="180" x="1280" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-330" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1370" y="230" as="sourcePoint" />
+            <mxPoint x="1370" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-331" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="270" as="sourcePoint" />
+            <mxPoint x="1371" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-332" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="271" as="sourcePoint" />
+            <mxPoint x="1090" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-333" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1089" y="-110" as="sourcePoint" />
+            <mxPoint x="1140" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-334" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1320" y="-110" as="sourcePoint" />
+            <mxPoint x="1511" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-335" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1510" y="-110" as="sourcePoint" />
+            <mxPoint x="1510" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-336" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1229" y="300" as="sourcePoint" />
+            <mxPoint x="1511" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-337" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="300" as="sourcePoint" />
+            <mxPoint x="1230" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-338" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fontSize=12;" value="Для d&lt;div&gt;в list2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="1140" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-339" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="470" as="sourcePoint" />
+            <mxPoint x="1230" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-340" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=12;" value="d не в list1?" vertex="1">
+          <mxGeometry height="120" width="180" x="1140" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-341" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="580" as="sourcePoint" />
+            <mxPoint x="1140" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-342" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1320" y="580" as="sourcePoint" />
+            <mxPoint x="1371" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-343" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;" value="Нет" vertex="1">
+          <mxGeometry height="20" width="40" x="1095" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-344" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;" value="Да" vertex="1">
+          <mxGeometry height="20" width="40" x="1325" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-345" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1370" y="580" as="sourcePoint" />
+            <mxPoint x="1370" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-346" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="only_in_2.append(d)" vertex="1">
+          <mxGeometry height="120" width="180" x="1280" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-347" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1370" y="750" as="sourcePoint" />
+            <mxPoint x="1370" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-348" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1089" y="790" as="sourcePoint" />
+            <mxPoint x="1371" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-349" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="790" as="sourcePoint" />
+            <mxPoint x="1090" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-350" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1089" y="410" as="sourcePoint" />
+            <mxPoint x="1140" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-351" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1320" y="410" as="sourcePoint" />
+            <mxPoint x="1511" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-352" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1510" y="410" as="sourcePoint" />
+            <mxPoint x="1510" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-353" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1229" y="820" as="sourcePoint" />
+            <mxPoint x="1511" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-354" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="820" as="sourcePoint" />
+            <mxPoint x="1230" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-355" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fontSize=12;" value="Вывод common, only_in_1, only_in_2" vertex="1">
+          <mxGeometry height="120" width="180" x="1140" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-356" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=13;startSize=19;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1230" y="990" as="sourcePoint" />
+            <mxPoint x="1230" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-357" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontSize=12;" value="Конец" vertex="1">
+          <mxGeometry height="60" width="180" x="1140" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="AolBaxtENKBG_FzVwrSG-358" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" value="list1, list2" vertex="1">
+          <mxGeometry height="120" width="180" x="1145" y="-1030" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
